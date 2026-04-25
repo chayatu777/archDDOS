@@ -9,7 +9,7 @@ Run python script.
 # Usage
 python3 archddos.py
 # Terminal Commands
-git clone https://github.com/yourusername/archddos
+git clone https://github.com/chayatu777/archddos
 cd archddos
 chmod +x install.sh
 ./install.sh
